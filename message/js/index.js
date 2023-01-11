@@ -1,6 +1,6 @@
 this.$dom = {};
 this.$dom.animatedText = document.createElement('div');
-this.text = "THIS IS MESSAGE SECTION OF THIS WEBSITE.DEMO MESSAGE- Your custom message";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
+this.text = "Semoga panjang umur, sehat selalu, di beri kelancaran buat semuanya, apapun yg kamu inginkan segera tercapai. jaga kesehatan. kurangin minum esnya tuh wkwkw. gaboleh telat mam lagiiii. makin sayang sama keluarga, sama aku juga deng hehe. i love uuuuu";  // MESSAGE AREA , THIS CAN BE CHANGED FROM YOUR MESSAGE :)
 this.$dom.container = document.getElementById('container');
 this.$dom.container.appendChild(this.$dom.animatedText);
 animateText();
